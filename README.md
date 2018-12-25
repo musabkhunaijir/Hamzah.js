@@ -1,6 +1,6 @@
-# hamzah
+# hamzah - همزة
 
-helps you to deal with the `hamzah` in arabic language
+helps you to deal with the `hamzah - الهمزة` in arabic language
 
 
 ## Installation
