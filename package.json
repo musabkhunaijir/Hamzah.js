@@ -1,0 +1,22 @@
+{
+  "name": "hamzah",
+  "version": "1.0.0",
+  "description": "helps you to deal with the \"hamzah\" in arabic language",
+  "main": "hamzah.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musabkhunaijir/Hamzah.js.git"
+  },
+  "author": "Musab Khunaijir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musabkhunaijir/Hamzah.js/issues"
+  },
+  "homepage": "https://github.com/musabkhunaijir/Hamzah.js#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
