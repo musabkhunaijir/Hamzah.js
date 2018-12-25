@@ -12,6 +12,11 @@
   },
   "author": "Musab Khunaijir",
   "license": "ISC",
+  "keywords": [
+    "الهمزة",
+    "همزة",
+    "hamzah"
+  ],
   "bugs": {
     "url": "https://github.com/musabkhunaijir/Hamzah.js/issues"
   },
