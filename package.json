@@ -1,6 +1,6 @@
 {
   "name": "hamzah",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "helps you to deal with the \"hamzah\" in arabic language",
   "main": "hamzah.js",
   "scripts": {
